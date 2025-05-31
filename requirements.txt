@@ -1,8 +1,8 @@
 streamlit
+qdrant-client
 langchain
 langchain-community
-langchain-text-splitters
-qdrant-client
+pypdf
 sentence-transformers
-gtts
-ollama
+openai
+tqdm
